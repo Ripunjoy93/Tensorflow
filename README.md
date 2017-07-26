@@ -1,3 +1,4 @@
 # Tensorflow
-Tensorflow Documentation Exercises
-(Only for Own Learning Purpose)
+
+Tensorflow Documentation Exercises and examples using public data sets
+> (Only for Learning Purpose)
